@@ -1,0 +1,10 @@
+[
+  {
+    "package": "phylotools",
+    "oncran": true
+  },
+  {
+    "package": "spaa",
+    "oncran": true
+  }
+]
