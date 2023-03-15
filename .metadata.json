@@ -1,5 +1,9 @@
 [
   {
+    "package": "HK80",
+    "oncran": true
+  },
+  {
     "package": "phylotools",
     "oncran": true
   },
