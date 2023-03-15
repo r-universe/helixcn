@@ -1,10 +1,10 @@
 [
   {
-    "package": "spaa",
+    "package": "phylotools",
     "oncran": true
   },
   {
-    "package": "phylotools",
+    "package": "spaa",
     "oncran": true
   }
 ]
